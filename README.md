@@ -4,7 +4,7 @@ Bonzi Buddy or the purple monkey is back in CMD!
 # What is this ?
 Bonzi Buddy (My Execution) is a program that removes the entire system in just 10 seconds! Shutting down in less seconds will not remove your system just files or .dll files.
 The program is very, very dangerous
-Best to test on a virtual machine like "Virtual Box" Downlaod in releases
+Best to test on a virtual machine like "Virtual Box" Downlaod in releases.
 Files .ISO (Download Windows) on Discord Link:https://discord.gg/TR5XDAAef5
 
 # How it's working?
